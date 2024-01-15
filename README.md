@@ -1,0 +1,1 @@
+An example project for automated UI tests using JavaScript-based end-to-end testing framework Cypress with page object model design pattern.
