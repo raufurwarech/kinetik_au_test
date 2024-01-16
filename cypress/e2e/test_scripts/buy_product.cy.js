@@ -3,7 +3,7 @@ import { AddProduct } from "../page_objects/add_product_locators";
 import { RegistrationPage } from "../page_objects/registration_locators";
 
 
-describe('landing pages', () => {
+describe('Buy new product for a new client', () => {
 
     const addProduct = new AddProduct();
     const registrationPage = new RegistrationPage();
@@ -12,7 +12,7 @@ describe('landing pages', () => {
         landingPage();
     });
 
-    it('Verify the title of page', () => {
+    it('Verify each task as a test step', () => {
 
         cy.fixture('example.json').then((data) => {
 
