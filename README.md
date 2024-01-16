@@ -24,9 +24,9 @@ using Task 1: Automate the given scenario.
 
 
 to run this project run those command in terminal. 
-clone repo or download project & open on vs code 
-npm init -y
-npm install cypress
-npm i --save-dev cypress-mochawesome-reporter
-npx cypress open (for gui mode)
-npx cypress run (for cli mode - report generate)
+- clone repo or download project & open on vs code 
+- npm init -y
+- npm install cypress
+- npm i --save-dev cypress-mochawesome-reporter
+- npx cypress open (for gui mode)
+- npx cypress run (for cli mode - report generate)
