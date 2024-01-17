@@ -1,6 +1,6 @@
 An example project for automated UI tests using JavaScript-based end-to-end testing framework Cypress with page object model design pattern.
 
-create one test script & each count each task as a test step, for that reason using one it block. 
+create one test script & each task as a test step, for that reason using one it block. 
 
 using Task 1: Automate the given scenario. 
 1. Launch browser(Chrome/Firefox)
